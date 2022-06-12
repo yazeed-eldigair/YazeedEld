@@ -3,9 +3,8 @@
 ## I'm a Full-Stack Web Developer
 
 - 🔭 Check out my [website portfolio](https://yazeedeldigair.netlify.app/) 
-- 🌟 I'm fluent in Javascript and proficient with React.js
+- 🌟 I'm fluent in Javascript and proficient with Svelte & React.js
 - 🎓 I have a BSc (Hons) in Computer Engineering
-- 🥅 Goals for 2022: Learn more about Web3
 - 🎵 Fun fact: I am a self-taught pianist. Check out my music page, 🎹[zees_keys](https://www.instagram.com/zees_keys/)
 - 📧 For inquiries: yazeed.eldigair@gmail.com
 
